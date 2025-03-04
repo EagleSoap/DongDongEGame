@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "YouSheBiaoTiHei";
+	font-weight: normal;
+	src: url("./YouSheBiaoTiHei.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "PangMenZhengBiaoSong";
+	font-weight: normal;
+	src: url("./PangMenZhengBiaoSong.ttf") format("truetype");
+}
+
+.font_YouSheBiaoTiHei {
+	font-family: "YouSheBiaoTiHei";
+}
+
+.font_PangMenZhengBiaoSong {
+	font-family: "PangMenZhengBiaoSong";
+}
