@@ -17,4 +17,7 @@ export default defineNuxtConfig({
 		},
 	},
 	css: ["~/assets/css/default.css", "~/assets/scss/default.scss", "aos/dist/aos.css"],
+	generate: {
+		dir:
+	},
 });
